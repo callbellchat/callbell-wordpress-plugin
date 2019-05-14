@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Callbell
+ * Plugin Name: Callbell Chat Widget
  * Description: Handle user conversations through Facebook Messenger, WhatsApp, Instagram Direct and Telegram.
  * Version: 0.1
  * Author: Callbell
