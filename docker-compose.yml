@@ -15,7 +15,7 @@ services:
       WORDPRESS_DB_NAME: exampledb
       WORDPRESS_DEBUG: 1
     volumes:
-      - ./callbell-widget:/var/www/html/wp-content/plugins/callbell-widget
+      - .:/var/www/html/wp-content/plugins/callbell-widget
 
   db:
     image: mysql:5.7
