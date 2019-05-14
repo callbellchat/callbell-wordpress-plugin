@@ -1,7 +1,6 @@
 <?php
 /**
- * Plugin Name: Callbell Chat Widget
- * Plugin URI: https://www.callbell.eu
+ * Plugin Name: Callbell
  * Description: Handle user conversations through Facebook Messenger, WhatsApp, Instagram Direct and Telegram.
  * Version: 0.1
  * Author: Callbell
@@ -47,7 +46,7 @@ function callbell_settings_page() {
       <? settings_errors(); ?>
       <h3>Settings</h3>
       <p>1. Create a free account on <a href="https://dash.callbell.eu/users/sign_up?utm_source=wordpress&email=<? echo $email; ?>" target="_blank" rel="noopener">Callbell Dashboard</a></p>
-      <p>2. Copy and paste the code in the textarea below:</p>
+      <p>2. Copy and paste the code in the text area below:</p>
 
       <form action="options.php" method="POST">
         <?
