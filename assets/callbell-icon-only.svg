@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 63 63" version="1.1" 
+    xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo Vector</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-23.000000, -19.000000)">
+            <g id="Group" transform="translate(23.000000, 19.000000)">
+                <g id="Logo-Vector">
+                    <rect id="Rectangle" fill="#69BEA7" x="0" y="0" width="63" height="63" rx="8"></rect>
+                    <path d="M33,18 L34,18 C34.5522847,18 35,18.4477153 35,19 L35,21.7621172 C42.1767798,23.0341726 48.5908956,28.7203513 48.5908956,36 C48.5908956,38.326241 54.0467146,43.1314394 51.8173693,43.1314394 C46.902892,43.1314394 37.9580303,43.1314394 32,43.1314394 C25.988442,43.1314394 17.9782173,43.1314394 12.4634491,43.1314394 C10.3582449,43.1314394 15.2449167,38.2727133 15.2449167,36 C15.2449167,28.7181098 21.7898418,23.0306711 29,21.7609434 L29,19 C29,18.4477153 29.4477153,18 30,18 L31,18 L31,16 L30,16 C29.4477153,16 29,15.5522847 29,15 C29,14.4477153 29.4477153,14 30,14 L34,14 C34.5522847,14 35,14.4477153 35,15 C35,15.5522847 34.5522847,16 34,16 L33,16 L33,18 Z M10,46 L54,46 C55.1045695,46 56,46.8954305 56,48 C56,49.1045695 55.1045695,50 54,50 L10,50 C8.8954305,50 8,49.1045695 8,48 C8,46.8954305 8.8954305,46 10,46 Z" id="Combined-Shape" stroke="#FFFFFF" fill="#FFFFFF" stroke-linecap="round"></path>
+                    <path d="M45.5,35.5 C45.5,29.1487254 38.6508484,23.863153 32.2995738,23.863153" id="Oval-2" stroke="#69BEA7" stroke-width="2" stroke-linecap="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -15,7 +15,7 @@ function callbell_plugin_cleanup() {
 }
 
 function callbell_create_menu() {
-  add_menu_page(__('Callbell', 'callbell'), __('Callbell', 'callbell'), 'administrator', __FILE__, 'callbell_settings_page', 'https://res.cloudinary.com/callbell-eu/image/upload/v1557608928/logo/callbell-icon-only.svg');
+  add_menu_page(__('Callbell', 'callbell'), __('Callbell', 'callbell'), 'administrator', __FILE__, 'callbell_settings_page', plugins_url('assets/callbell-icon-only.svg', __FILE__));
   add_action('admin_init', 'callbell_register_settings');
   add_action('admin_init', 'callbell_onboarding');
 }
@@ -41,7 +41,7 @@ function callbell_settings_page() {
   ?>
     <div class="card">
       <a href="https://www.callbell.eu?utm_source=wordpress" target="_blank" rel="noopener">
-        <img style="margin-left: -13px;" src="https://res.cloudinary.com/callbell-eu/image/upload/v1557078358/logo/logo.png" width="180"/>
+        <img style="margin-left: -13px;" src="<? echo plugins_url("assets/logo.png", __FILE__ ); ?>" width="180"/>
       </a>
       <? settings_errors(); ?>
       <h3>Settings</h3>
