@@ -66,7 +66,7 @@ The plugin comes with a free plan for Wordpress users. Larger businesses can pur
 
 == Usage ==
 
-After creating an account on [Callbell](https://www.callbell.eu/users/sign_up?utm_source=wpdirectory&utm_medium=link&utm_campaign=signup) you can customize your widget logo, configure the channels you want to display to your visitors, and select if you want to display those on desktop, mobile or both.
+After creating an account on [Callbell](https://dash.callbell.eu/users/sign_up?utm_source=wpdirectory&utm_medium=link&utm_campaign=signup) you can customize your widget logo, configure the channels you want to display to your visitors, and select if you want to display those on desktop, mobile or both.
 
 Finally, copy and paste the widget code from the dashboard to your Callbell WordPress integration and click “Save Changes”.
 
@@ -76,7 +76,7 @@ Finally, copy and paste the widget code from the dashboard to your Callbell Word
 
 *Wordpress versions:* Wordpress 2.7 and up.
 
-Note: You will need to create a free account on [Callbell](https://www.callbell.eu/users/sign_up?utm_source=wpdirectory&utm_medium=link&utm_campaign=signup) in order to have a working installation.
+Note: You will need to create a free account on [Callbell](https://dash.callbell.eu/users/sign_up?utm_source=wpdirectory&utm_medium=link&utm_campaign=signup) in order to have a working installation.
 
 Step-by-step Guide:
 
