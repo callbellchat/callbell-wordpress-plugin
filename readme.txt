@@ -3,9 +3,9 @@
 Contributors: Callbell
 Tags: callbell, live chat, chat, chat plugin, free, free chat, chat widget, facebook messenger, whatsapp, instagram, telegram, social media.
 Requires at least: 3.0.1
-Stable tag: 0.1.0
-Version: 0.1.0
-Tested up to: 5.3
+Stable tag: 0.1.1
+Version: 0.1.1
+Tested up to: 5.4
 Requires PHP: 5.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -86,6 +86,10 @@ Step-by-step Guide:
 * Finally, make full use of our Dashboard to manage your chat widget.
 
 == Changelog ==
+
+= 0.1.1 =
+
+* Fix: The plugin is now retrocompatible with older versions of PHP
 
 = 0.1.0 =
 
