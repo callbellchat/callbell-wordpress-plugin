@@ -3,8 +3,8 @@
 Contributors: Callbell
 Tags: callbell, live chat, chat, chat plugin, free, free chat, chat widget, facebook messenger, whatsapp, instagram, telegram, social media.
 Requires at least: 3.0.1
-Stable tag: 0.1.1
-Version: 0.1.1
+Stable tag: 0.1.2
+Version: 0.1.2
 Tested up to: 5.4
 Requires PHP: 5.3
 License: GPLv2 or later

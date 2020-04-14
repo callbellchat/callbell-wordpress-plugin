@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Callbell Chat Widget
  * Description: Handle user conversations through Facebook Messenger, WhatsApp, Instagram Direct and Telegram.
- * Version: 0.1.1
+ * Version: 0.1.2
  * Author: Callbell
  * Author URI: https://www.callbell.eu
  */
@@ -41,24 +41,24 @@ function callbell_settings_page() {
   ?>
     <div class="card">
       <a href="https://www.callbell.eu?utm_source=wordpress" target="_blank" rel="noopener">
-        <img style="margin-left: -13px;" src="<? echo plugins_url("assets/logo.png", __FILE__ ); ?>" width="180"/>
+        <img style="margin-left: -13px;" src="<?php echo plugins_url("assets/logo.png", __FILE__ ); ?>" width="180"/>
       </a>
-      <? settings_errors(); ?>
+      <?php settings_errors(); ?>
       <h3>Settings</h3>
       <p>1. Create a free account on <a href="https://dash.callbell.eu/users/sign_up?utm_source=wordpress&email=<? echo $email; ?>" target="_blank" rel="noopener">Callbell Dashboard</a></p>
       <p>2. Copy and paste the code in the text area below:</p>
 
       <form action="options.php" method="POST">
-        <?
+        <?php
           echo settings_fields('callbell');
           echo do_settings_sections('callbell');
           ?>
-        <textarea name="callbell-script-token" id="callbell-script-token" cols="60" rows="20"><? echo esc_attr(get_option('callbell-script-token')) ?></textarea>
+        <textarea name="callbell-script-token" id="callbell-script-token" cols="60" rows="20"><?php echo esc_attr(get_option('callbell-script-token')) ?></textarea>
         <br>
-        <? submit_button(); ?>
+        <?php submit_button(); ?>
       </form>
     </div>
-  <?
+  <?php
 }
 
 function callbell_javascript_block() {
