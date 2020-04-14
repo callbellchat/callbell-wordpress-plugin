@@ -87,6 +87,10 @@ Step-by-step Guide:
 
 == Changelog ==
 
+= 0.1.2 =
+
+* Fix: Removed short tags in PHP code for compatibility
+
 = 0.1.1 =
 
 * Fix: The plugin is now retrocompatible with older versions of PHP
