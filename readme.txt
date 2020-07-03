@@ -1,7 +1,7 @@
-=== Callbell Chat Widget ===
+=== Social Chat Widget (⚡ by Callbell) ===
 
 Contributors: Callbell
-Tags: callbell, live chat, chat, chat plugin, free, free chat, chat widget, facebook messenger, whatsapp, instagram, telegram, social media.
+Tags: whatsapp, whatsapp chat, whatsapp plugin, whatsapp button, free whatsapp click-to-chat, whatsapp live chat.
 Requires at least: 3.0.1
 Stable tag: 0.1.2
 Version: 0.1.2
@@ -10,45 +10,48 @@ Requires PHP: 5.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-== Description ==
+== WhatsApp Chat Plugin Description ==
 
-Callbell chat widget allows website visitors to choose between popular Messaging Apps like WhatsApp, Facebook Messenger (Customer Chat plugin), Instagram Direct and Telegram to chat with your business. It is free and easy to install.
+WhatsApp free live chat button to connect and communicate with your website visitors
 
-= Why should I use Callbell chat widget? =
+WhatsApp, Instagram, Messenger and Telegram in one chat plugin. Callbell free chat widget allows website visitors to choose between popular Messaging Apps like WhatsApp, Facebook Messenger (Customer Chat plugin), Instagram Direct and Telegram to chat with your business. It is free and easy to install.
 
-[Callbell](https://www.callbell.eu) is the easiest way to integrate WhatsApp, Facebook Messenger, Instagram and Telegram on a WordPress website. With this chat plugin, you will be able to give your visitors the opportunity to communicate with your company through different direct messaging applications: 
+= Chattting with your clients on WhatsApp? Here's why you should use Callbell =
 
-- Facebook Messenger
-- WhatsApp
-- Instagram Direct
-- Telegram
+WhatsApp is the most popular messaging app and is becoming the new way in which businesses communicate with their clients. [Callbell](https://www.callbell.eu) is the easiest way to integrate WhatsApp, Facebook Messenger, Instagram and Telegram on a WordPress website. With this chat plugin, you will be able to give your visitors the opportunity to communicate with your company through different direct messaging applications: 
 
-= Chat with your customers on their preferred messaging app =
-Allow your website visitors to choose their favorite messaging application to request information or support from your business. 
+💡 WhatsApp
+💡 WhatsApp Business
+💡 Facebook Messenger
+💡 Instagram Direct
+💡 Telegram
 
-= Reach your customers even after they leave your website =
-Thanks to messaging applications you can continue the conversation with your leads, prospects or clients at any moment and on the same apps they already use to communicate with friends and family
+= WhatsApp, Messenger, Instagram and Telegram - Chat with your customers on their preferred messaging app =
+Allow your website visitors to choose their favorite messaging application (WhatsApp, Facebook Messenger, Inatagram Direct and Telegram) to request information or support from your business. 
 
-= View customers’ profiles and engage with them =
+= WhatsApp as live chat? Reach your customers even after they leave your website =
+Using WhatsApp and Facebook Messenger allows you to reach your clients even when after leaving your website. Thanks to messaging applications you can continue the conversation with your leads, prospects or clients at any moment and on the same apps they already use to communicate with friends and family. 
+
+= WhatsApp as live chat? View customers’ profiles and engage with them =
 Get important information about your contacts like their Facebook / Instagram profile or their WhatsApp phone number.
 
-= Get insightful statistics and analytics =
+= WhatsApp as live chat? Get insightful statistics and analytics =
 After 24 hours, you will be able to see statistics on unique visitors / visitors, clicks on the widget, clicked channels, devices and geo localization straight from your Callbell dashboard.
 
-== Screenshots ==
+== WhatsApp chat plugin screenshots ==
 
 1. Chat Widget - Facebook Messenger
 2. Dashboard onboarding - channel configuration
 3. Dashboard - Analytics and stats
 4. Wordpress settings
 
-== Frequently Asked Questions ==
+== WhatsApp chat plugin features - Frequently Asked Questions ==
 
-= Is Callbell free? =
+= Is Callbell (WhatsApp chat plugin) free? =
 
 The Callbell chat plugin is 100% free. 
 
-= What does Callbell let me do? =
+= Adding WhatsApp to my website: what does Callbell let me do? =
 
 Callbell adds a chat plugin to your website which visitors can use to engage with you and your company using popular messaging applications such as WhatsApp, Facebook Messenger, Instagram Direct and Telegram. 
 
