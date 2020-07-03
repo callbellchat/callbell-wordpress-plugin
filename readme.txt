@@ -10,13 +10,13 @@ Requires PHP: 5.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-== WhatsApp Chat Plugin Description ==
+== Description ==
 
 WhatsApp free live chat button to connect and communicate with your website visitors
 
 WhatsApp, Instagram, Messenger and Telegram in one chat plugin. Callbell free chat widget allows website visitors to choose between popular Messaging Apps like WhatsApp, Facebook Messenger (Customer Chat plugin), Instagram Direct and Telegram to chat with your business. It is free and easy to install.
 
-= Chattting with your clients on WhatsApp? Here's why you should use Callbell =
+= Chatting with your clients on WhatsApp? Here's why you should use Callbell =
 
 WhatsApp is the most popular messaging app and is becoming the new way in which businesses communicate with their clients. [Callbell](https://www.callbell.eu) is the easiest way to integrate WhatsApp, Facebook Messenger, Instagram and Telegram on a WordPress website. With this chat plugin, you will be able to give your visitors the opportunity to communicate with your company through different direct messaging applications: 
 
@@ -38,14 +38,14 @@ Get important information about your contacts like their Facebook / Instagram pr
 = WhatsApp as live chat? Get insightful statistics and analytics =
 After 24 hours, you will be able to see statistics on unique visitors / visitors, clicks on the widget, clicked channels, devices and geo localization straight from your Callbell dashboard.
 
-== WhatsApp chat plugin screenshots ==
+== Screenshots ==
 
 1. Chat Widget - Facebook Messenger
 2. Dashboard onboarding - channel configuration
 3. Dashboard - Analytics and stats
 4. Wordpress settings
 
-== WhatsApp chat plugin features - Frequently Asked Questions ==
+== Frequently Asked Questions ==
 
 = Is Callbell (WhatsApp chat plugin) free? =
 
@@ -101,5 +101,4 @@ Step-by-step Guide:
 = 0.1.0 =
 
 * Feature: Include your Callbell Widget with a simple click!
-
 
