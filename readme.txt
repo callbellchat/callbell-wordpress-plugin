@@ -3,8 +3,8 @@
 Contributors: Callbell
 Tags: whatsapp, whatsapp chat, whatsapp plugin, whatsapp button, free whatsapp click-to-chat, whatsapp live chat.
 Requires at least: 3.0.1
-Stable tag: 0.1.2
-Version: 0.1.2
+Stable tag: 0.1.3
+Version: 0.1.3
 Tested up to: 5.4
 Requires PHP: 5.3
 License: GPLv2 or later
@@ -89,6 +89,10 @@ Step-by-step Guide:
 * Finally, make full use of our Dashboard to manage your chat widget.
 
 == Changelog ==
+
+= 0.1.3 =
+
+* Chore: Updated Readme with further information
 
 = 0.1.2 =
 
